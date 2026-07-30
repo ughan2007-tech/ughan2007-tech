@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Ughan 👋
 
-<!--
-**ughan2007-tech/ughan2007-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about software development and continuously improving my problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Student
+- 💻 Learning Java, Spring Boot and React
+- 🧠 Solving Data Structures & Algorithms problems
+- 🌱 Always learning new technologies
+- 🎯 Goal: Become a Software Engineer at a top product-based company
